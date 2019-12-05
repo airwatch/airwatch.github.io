@@ -8,6 +8,9 @@ China now has one of the worst air quality in the world, according to Aaron van 
 
 The country of nearly 1.4 billion people is seeing a surge in cancer cases, with lung cancer patients being as young as 8 years old, even though the smoking rate is on a decline. China’s air pollution is no longer its own issue: the smog has crossed the Yellow Sea and the Sea of Japan, polluting South Korea and Japan.
 
+{% include foobar.html %}
+
+
 ## 7 huge events around the world
 
 * 2014: Arba’een festival, Iraq
