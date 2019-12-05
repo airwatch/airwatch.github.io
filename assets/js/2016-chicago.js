@@ -258,7 +258,7 @@ var presets = window.chartColors;
 			}
 		};
 
-		[false, 'origin', 'start', 'end'].forEach(function(boundary, index) {
+		[false, 'origin', 'start', 'end', 'toto', 'tata'].forEach(function(boundary, index) {
 
 			// reset the random seed to generate the same data for all charts
 			utils.srand(8);
