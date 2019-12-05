@@ -10,9 +10,8 @@ The country of nearly 1.4 billion people is seeing a surge in cancer cases, with
 
 ## 7 huge events around the world
 
-* [2014: FIFA World Cup in Brazil]({% link 2014-fifa-world-cup-in-brazil.md %})
 * 2014: Arba’een festival, Iraq
 * 2015: Papal gathering in the Philippines
 * 2015: Pope Francis, Manila
-* 2016: Cubs World Series parade, Chicago
+* [2016: Cubs World Series parade, Chicago]({% link 2016-cubs-world-series-parade-chicago.md %})
 * 2016: DONAUINSELFEST, Austria
