@@ -10,7 +10,6 @@ The country of nearly 1.4 billion people is seeing a surge in cancer cases, with
 
 ## 7 huge events around the world
 
-* 2013: Kumbh Mela pilgrimage, India
 * 2014: FIFA World Cup in Brazil
 * 2014: Arba’een festival, Iraq
 * 2015: Papal gathering in the Philippines
