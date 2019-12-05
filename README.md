@@ -1,6 +1,3 @@
-layout: page
-title: "AIR WATCH"
-permalink: /
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/airwatch/airwatch.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
