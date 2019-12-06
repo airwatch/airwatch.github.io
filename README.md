@@ -11,4 +11,4 @@ The country of nearly 1.4 billion people is seeing a surge in cancer cases, with
 ## 3 huge events around the world
 
 * [2016: Cubs World Series parade, Chicago]({% link 2016-cubs-world-series-parade-chicago.md %})
-* [2017: AWS RE:INVENT, Las Vegas]({% link 2016-cubs-world-series-parade-chicago.md %})
+* [2017: AWS RE:INVENT, Las Vegas]({% link 2017-aws-reinvent.md %})
