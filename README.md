@@ -8,11 +8,17 @@ Worldwide ambient air pollution accounts for:
 * **25%** of all deaths and disease from ischaemic heart disease
 * **43%** of all deaths and disease from chronic obstructive pulmonary disease
 
-Pollutants with the strongest evidence for public health concern, include particulate matter (PM), ozone (O3), nitrogen dioxide (NO2) and sulphur dioxide (SO2). Also, particulate matter of less than 10 and 2.5 microns in diameter (namely PM10 and PM2.5) are capable of penetrating deep into lung passageways and entering the bloodstream causing cardiovascular, cerebrovascular and respiratory impacts.
-With Airwatch, you can see the impact how big events impact air quality
-We believe Airwatch will raise awareness about timelocal
+Big events can be a major threats for health bringing more people and more pollution in the same place quickly.
+This impacts both locals and events participants. 
 
-## 3 huge events around the world
+With Airwatch, you can see how big events impact air quality.
+We believe Airwatch will raise awareness about pollution during big events.
+
+Based on the air quality open data from [openaq](https://openaq.org), we are able to get pollution stats .
+
+For historical events, we use cold storage from S3. For current and future events, we can use the openaq real time API. 
+
+## 3 huge events are given as example around the world
 
 * [2016: Cubs World Series parade, Chicago]({% link 2016-cubs-world-series-parade-chicago.md %})
 * [2017: Woodstock Festival, Setlists]({% link 2017-woodstock-festival-setlists.md %})
