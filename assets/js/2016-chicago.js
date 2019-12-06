@@ -258,12 +258,9 @@ var presets = window.chartColors;
 			}
 		};
 
-		[false, 'origin', 'start', 'end', 'toto', 'tata'].forEach(function(boundary, index) {
 
-			// reset the random seed to generate the same data for all charts
-			utils.srand(8);
 
-			new Chart('chart-' + index, {
+			new Chart('chart-0', {
 				type: 'line',
 				data: {
 					labels: ["10-27","10-28","10-29","10-30","10-31","11-01","11-02","11-03","11-04","11-05","11-06","11-07","11-08","11-09"],
@@ -271,18 +268,15 @@ var presets = window.chartColors;
 						backgroundColor: utils.transparentize(presets.red),
 						borderColor: presets.red,
 						data: [3.180821917808219,7.705357142857143,10.411188811188813,4.119999999999999,3.731858407079646,9.148550724637682,14.891752577319588,8.762937062937063,5.004929577464789,7.8724137931034495,15.142857142857142,13.899999999999999,13.600000000000001,3.6297297297297306],
-						label: 'PM25',
-						fill: boundary
+						label: 'PM25'
 					}]
 				},
 				options: Chart.helpers.merge(options, {
 					title: {
-						text: 'fill: ' + boundary,
-						display: true
+						display: false
 					}
 				})
 			});
-		});
 
 		// eslint-disable-next-line no-unused-vars
 		function toggleSmooth(btn) {
