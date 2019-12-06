@@ -1,8 +1,8 @@
-# 2016: Cubs World Series parade, Chicago
+# 2017: Woodstock Festival, Setlists
 
 ## Description
 
-Chicago Cubs won the 2016 World Series! Chicago celebrated this incredible victory with a parade starting at Wrigley Field and ending with a rally at Grant Park. 
+In 2004 Rolling Stone magazine listed it as number 19 of the 50 Moments That Changed the History of Rock and Roll.[12] In 2017 the festival site became listed on the National Register of Historic Places.
 
 ## Air quality representation
-{% include 2016-cubs-world-series-parade-chicago-chart.html %}
+{% include 2017-woodstock-festival-setlists-chart.html %}
