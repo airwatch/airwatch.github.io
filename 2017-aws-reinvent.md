@@ -1,8 +1,8 @@
-# 2016: Cubs World Series parade, Chicago
+# 2017: AWS RE:INVENT, Las Vegas
 
 ## Description
 
-Chicago Cubs won the 2016 World Series! Chicago celebrated this incredible victory with a parade starting at Wrigley Field and ending with a rally at Grant Park. 
+AWS re:Invent is a learning conference hosted by Amazon Web Services for the global cloud computing community. The event will feature keynote announcements, training and certification opportunities, access to more than 2,500 technical sessions, a partner expo, after-hours events, and so much more.
 
 ## Air quality representation
-{% include 2016-cubs-world-series-parade-chicago-chart.html %}
+{% include 2017-aws-reinvent-chart.html %}
