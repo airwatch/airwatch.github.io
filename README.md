@@ -15,4 +15,5 @@ We believe Airwatch will raise awareness about timelocal
 ## 3 huge events around the world
 
 * [2016: Cubs World Series parade, Chicago]({% link 2016-cubs-world-series-parade-chicago.md %})
-* [2017: AWS RE:INVENT, Las Vegas]({% link 2017-aws-reinvent.md %})
+* [2017: Woodstock Festival, Setlists]({% link 2017-woodstock-festival-setlists.md %})
+* [2017: AWS Re:invent, Las Vegas]({% link 2017-aws-reinvent.md %})
