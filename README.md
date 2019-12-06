@@ -8,10 +8,7 @@ China now has one of the worst air quality in the world, according to Aaron van 
 
 The country of nearly 1.4 billion people is seeing a surge in cancer cases, with lung cancer patients being as young as 8 years old, even though the smoking rate is on a decline. China’s air pollution is no longer its own issue: the smog has crossed the Yellow Sea and the Sea of Japan, polluting South Korea and Japan.
 
-## 7 huge events around the world
+## 3 huge events around the world
 
-* 2014: Arba’een festival, Iraq
-* 2015: Papal gathering in the Philippines
-* 2015: Pope Francis, Manila
 * [2016: Cubs World Series parade, Chicago]({% link 2016-cubs-world-series-parade-chicago.md %})
-* 2016: DONAUINSELFEST, Austria
+* [2017: AWS RE:INVENT, Las Vegas]({% link 2016-cubs-world-series-parade-chicago.md %})
